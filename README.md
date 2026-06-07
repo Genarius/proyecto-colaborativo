@@ -1,2 +1,5 @@
-# proyecto-colaborativo
+# Proyecto colaborativo
 Módulo 2 - Proyecto Colaborativo
+---
+Página de prueba
+---
